@@ -1,0 +1,15 @@
+# 系统
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*~
+
+# 备份
+*.bak
+*.bak.*
+backup/
+
+# 构建产物(不开源)
+node_modules/
+*.log

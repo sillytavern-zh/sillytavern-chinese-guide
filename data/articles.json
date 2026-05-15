@@ -1,0 +1,411 @@
+{
+  "articles": [
+    {
+      "slug": "long-chat-summary",
+      "category": "advanced",
+      "title": "长对话失忆终极解决方案:三种总结技巧",
+      "description": "SillyTavern 聊久了 AI 失忆怎么办?手动总结+隐藏、自动总结插件、记忆表格三种方案完整对比与最佳实践组合。",
+      "createdAt": "2026-05-08",
+      "updatedAt": "2026-05-08"
+    },
+    {
+      "slug": "group-chat",
+      "category": "advanced",
+      "title": "群聊模式入门:让多个 AI 角色同台演出",
+      "description": "SillyTavern 群聊 (Group Chat) 完整入门。创建群聊、配置发言策略、多角色互动技巧、常见问题与让群聊活起来的秘诀。",
+      "createdAt": "2026-04-26",
+      "updatedAt": "2026-04-26"
+    },
+    {
+      "slug": "comparison-2026",
+      "category": "ai-models",
+      "title": "2026 主流 AI 模型横评:Claude / Gemini / GPT / DeepSeek",
+      "description": "2026 年 SillyTavern 主流 AI 模型完整横评,Claude、Gemini、GPT-4o、DeepSeek 四大模型优劣势对比,根据场景给出选型建议。",
+      "createdAt": "2026-05-03",
+      "updatedAt": "2026-05-14",
+      "versionSensitive": true
+    },
+    {
+      "slug": "claude-guide",
+      "category": "ai-models",
+      "title": "Claude 全系深度指南:Sonnet / Opus / Haiku 怎么选",
+      "description": "Claude 在中文角色扮演中为什么是顶端选择?Sonnet、Opus、Haiku 三档对比、参数避雷、反审查表现、国内中转方案全解。",
+      "createdAt": "2026-04-22",
+      "updatedAt": "2026-05-14",
+      "versionSensitive": true
+    },
+    {
+      "slug": "gemini-guide",
+      "category": "ai-models",
+      "title": "Gemini 全家桶解析:Flash 和 Pro 的真实差异",
+      "description": "Gemini 系列完整选型指南。Flash 性价比之王、Pro 中端主力、Ultra 为何不推荐、空回复反截断完整解决方案、100 万 token 上下文的妙用。",
+      "createdAt": "2026-05-10",
+      "updatedAt": "2026-05-14",
+      "versionSensitive": true
+    },
+    {
+      "slug": "custom-api-setup",
+      "category": "api-config",
+      "title": "自定义 API 端点完整配置教程:9 步打通任意 OpenAI 兼容 API",
+      "description": "SillyTavern 自定义 API 端点完整 9 步配置教程。覆盖 Claude / GPT / Gemini / DeepSeek / Ollama 本地模型。90% 失败在端点格式或模型名,每一步附精准排查。含多 API 管理、Key 安全、完整错误码对照表。",
+      "createdAt": "2026-04-25",
+      "updatedAt": "2026-05-14",
+      "tldr": "9 步配通所有 OpenAI 兼容 API。成败在 2 处:Endpoint 是否 /v1 结尾、模型名是否 100% 准确。一个中文标点或空格就 500。",
+      "keyFacts": [
+        "所有主流中转商、官方 OpenAI、本地 Ollama/LM Studio 都走这个流程",
+        "90% 失败是端点格式错或模型名拼错",
+        "配好后保存为 Preset,以后切 API 只需 2 秒",
+        "重度玩家通常有 3-5 个 Preset 来回切",
+        "Claude 系列必须保持 Penalty 参数默认值,否则 400"
+      ],
+      "howto": {
+        "name": "SillyTavern 自定义 API 端点配置完整 9 步",
+        "description": "在 SillyTavern 中配置 OpenAI 兼容 API,打通 Claude/GPT/Gemini/DeepSeek/本地模型",
+        "totalTime": "PT15M",
+        "steps": [
+          {
+            "name": "准备三要素",
+            "text": "拿到 endpoint(以 /v1 结尾)、API key(无空格无 Bearer 前缀)、模型完整 slug(大小写敏感,不要中文标点)。每一个都必须完全准确,否则后面 99% 会失败。"
+          },
+          {
+            "name": "选 Chat Completion 模式",
+            "text": "点酒馆左上角插头图标,API 下拉选 \"Chat Completion\"。这是最通用的模式,支持所有 OpenAI 兼容服务。"
+          },
+          {
+            "name": "选 Custom (OpenAI-compatible) 源",
+            "text": "Chat Completion Source 下拉选 Custom (OpenAI-compatible)。支持 95% 的主流 API。"
+          },
+          {
+            "name": "填 Endpoint",
+            "text": "Custom Endpoint 填 https://xxx.com/v1,必须以 /v1 结尾,不要多加斜杠,不要写完整 /chat/completions 路径。这是 90% 失败的第一个源头。"
+          },
+          {
+            "name": "填 API Key",
+            "text": "Custom API Key 填整串 sk-xxx 无空格无换行。不要加 Bearer 前缀,酒馆自己会加。"
+          },
+          {
+            "name": "点 Connect 测试",
+            "text": "点 Connect 按钮,看右上角状态。Valid 继续,Invalid 回头查 endpoint 和 key。Valid 只证明能通不证明模型可用,发消息仍可能 500。"
+          },
+          {
+            "name": "选择或手填模型名",
+            "text": "Available Models 下拉选模型;如果为空,在 Custom Model ID 手动填完整 slug。注意中文标点、版本号、大小写、复制截断这 4 种常见错误。"
+          },
+          {
+            "name": "调整参数适配模型",
+            "text": "Claude 必须保持 Repetition/Presence/Frequency Penalty 默认值否则 400。Gemini 建议关 Stream。GPT 默认值通常就行。通用默认:Temperature 0.85 / Top P 0.95。"
+          },
+          {
+            "name": "保存为 Preset 并测试",
+            "text": "右上角菜单 Save Preset,命名规范 模型-来源-用途。发第一条 hello 验证,3-15 秒内应有回复。失败按概率排查:500 检查模型名,空回复关 Stream,其他错误码查对照表。"
+          }
+        ]
+      },
+      "versionSensitive": true
+    },
+    {
+      "slug": "api-key-guide",
+      "category": "api-config",
+      "title": "API Key 怎么填、怎么验证、怎么排查问题",
+      "description": "SillyTavern API Key 配置完整实战。从复制 Key 到 valid 验证、余额查询、多 Key 管理、安全保存的所有坑点和解决方案。",
+      "createdAt": "2026-04-08",
+      "updatedAt": "2026-04-08"
+    },
+    {
+      "slug": "pricing-models",
+      "category": "api-config",
+      "title": "按次计费 vs 按量计费:长上下文场景如何省 40 倍",
+      "description": "AI API 两种主流计费模式完整对比。短对话用按量、长上下文必选按次的真实成本案例,Agent / 长文档分析 / 多轮对话场景的最优选择策略。",
+      "createdAt": "2026-05-12",
+      "updatedAt": "2026-05-14",
+      "versionSensitive": true
+    },
+    {
+      "slug": "what-is-character-card",
+      "category": "character-cards",
+      "title": "角色卡到底是什么?一张 PNG 背后藏着 AI 的灵魂",
+      "description": "角色卡是 SillyTavern 的核心。本文从原理、结构、获取方式、使用注意四个角度讲清楚一张角色卡到底是什么。",
+      "createdAt": "2026-04-19",
+      "updatedAt": "2026-05-13"
+    },
+    {
+      "slug": "import-guide",
+      "category": "character-cards",
+      "title": "角色卡导入完整指南:从下载到第一次对话的全流程",
+      "description": "SillyTavern 角色卡导入完整流程,含导入方法、备选问候语切换、导入失败 9 大原因排查。",
+      "createdAt": "2026-03-12",
+      "updatedAt": "2026-05-13"
+    },
+    {
+      "slug": "manual-creation",
+      "category": "character-cards",
+      "title": "自己做一张角色卡:从概念到成品的 5 步流程",
+      "description": "SillyTavern 角色卡制作完整教程,5 步走完概念设计、角色描述、第一句话、示例对话、测试导出,含好描述/坏描述对比与避坑指南。",
+      "createdAt": "2026-03-26",
+      "updatedAt": "2026-03-26"
+    },
+    {
+      "slug": "memory-extensions",
+      "category": "extensions",
+      "title": "SillyTavern 记忆插件横评:Horae / 记忆表格 / Amily2 / 全自动总结 4 家选哪个",
+      "description": "4 家主流 SillyTavern 记忆插件深度对比,5 维度横评 + 5 步决策树。Horae 时光记忆 / 记忆表格 / Amily2 / 全自动总结脚本各擅长什么、Token 消耗如何、谁适合你。",
+      "createdAt": "2026-05-15",
+      "updatedAt": "2026-05-15",
+      "order": 3,
+      "tldr": "4 家主流方案各有定位:Horae 适合长篇沉浸/RPG;记忆表格适合可视化数据控;Amily2 适合不折腾;全自动总结脚本适合已装酒馆助手。铁律:只装一个,装多个会打架。",
+      "keyFacts": [
+        "4 家全部基于 SillyTavern 原生功能扩展,都需要先装本体近期版本",
+        "都不消耗会员/积分,纯前端扩展,本地运行",
+        "中文社区维护,作者活跃",
+        "装错或装多会打架——两个插件都给同段历史做总结,产生 prompt 冲突",
+        "选一个坚持用一周再评价,不要频繁切换"
+      ],
+      "faq": [
+        {
+          "q": "记忆插件会让 AI 变笨吗?",
+          "a": "不会让模型本身变笨,但会改变输出习惯——因为每楼 prompt 多了一段过去发生了什么的总结。好的记忆插件都讲究变化驱动/按需注入。"
+        },
+        {
+          "q": "免费 API 用户能用吗?",
+          "a": "可以,但要选 Token 消耗低的方案。Horae 变化驱动和全自动总结脚本对免费 API 友好。"
+        },
+        {
+          "q": "已经聊了 200 楼才装,有效果吗?",
+          "a": "Horae 等插件支持 AI 智能摘要一键扫历史。不晚,但要主动跑一次补全旧档案。"
+        },
+        {
+          "q": "换浏览器记忆会丢吗?",
+          "a": "数据存在本地,换浏览器会丢。导出 JSON,在新设备导入即可迁移。"
+        },
+        {
+          "q": "可以同时用记忆插件 + 世界书吗?",
+          "a": "强烈建议。世界书管固定设定,记忆插件管动态状态,两者不冲突,组合最强。"
+        },
+        {
+          "q": "作者跑路怎么办?",
+          "a": "开源代码在本地。只要 SillyTavern 没大改扩展能继续跑。数据导出 JSON 也能迁移其他工具。"
+        },
+        {
+          "q": "推荐用副 API 跑摘要吗?",
+          "a": "强烈推荐,主 API 用高端模型,副 API 用 DeepSeek/Gemini Flash 跑摘要省钱不少。"
+        },
+        {
+          "q": "实在不会选,有安全选择吗?",
+          "a": "先装 Horae,功能最全。嫌重再降级到 Amily2。"
+        }
+      ],
+      "versionSensitive": true
+    },
+    {
+      "slug": "top-10",
+      "category": "extensions",
+      "title": "SillyTavern 必装扩展 TOP 10:让酒馆体验质变",
+      "description": "2026 实测有效的 10 个必装扩展,按重要程度排序。酒馆助手、记忆增强、文生图、QR 助手、TTS、翻译、字体管理器等。",
+      "createdAt": "2026-04-30",
+      "updatedAt": "2026-05-13"
+    },
+    {
+      "slug": "tavern-helper",
+      "category": "extensions",
+      "title": "酒馆助手 Tavern Helper:80% 高级扩展依赖的'地基'",
+      "description": "为什么酒馆助手是必须装的第一个扩展?它的作用、安装方法、常见安装失败原因、高级用法(自定义 JS / Slash 命令 / 双向交互)完整指南。",
+      "createdAt": "2026-04-12",
+      "updatedAt": "2026-05-13",
+      "credits": {
+        "name": "JS-Slash-Runner (酒馆助手)",
+        "author": "N0VI028",
+        "authorUrl": "https://github.com/N0VI028",
+        "originalUrl": "https://github.com/N0VI028/JS-Slash-Runner",
+        "mirrorUrl": "https://gitlab.com/novi028/JS-Slash-Runner"
+      }
+    },
+    {
+      "slug": "local-install",
+      "category": "getting-started",
+      "title": "SillyTavern 本地部署完整教程:Windows / macOS / Linux 三平台傻瓜式指南",
+      "description": "SillyTavern 本地部署全平台完整步骤。从装 Node.js 到跑通第一次对话,所有报错完整对照表,30-90 分钟跑通。",
+      "createdAt": "2026-05-13",
+      "updatedAt": "2026-05-13",
+      "order": 6
+    },
+    {
+      "slug": "what-is-sillytavern",
+      "category": "getting-started",
+      "title": "SillyTavern 是什么?从开源前端到 AI 角色扮演神器的完整解读",
+      "description": "SillyTavern(酒馆)是什么?一篇读完:生态关系、和 ChatGPT/Character.AI 的本质差别、2026 年为什么仍值得学、7 种用户画像、真实成本、新手误解、常见故障速查。4500 字完整指南。",
+      "createdAt": "2026-04-04",
+      "updatedAt": "2026-05-14",
+      "versionSensitive": true
+    },
+    {
+      "slug": "cloud-vs-local",
+      "category": "getting-started",
+      "title": "云端版 vs 本地部署:成本、稳定性、上手难度深度对比",
+      "description": "SillyTavern 云端版和本地部署到底哪个适合你?从成本、稳定性、易用性、隐私四个维度完整对比,附本地部署快速教程和挑选云端运营方标准。",
+      "createdAt": "2026-03-08",
+      "updatedAt": "2026-05-13"
+    },
+    {
+      "slug": "quickstart",
+      "category": "getting-started",
+      "title": "30 分钟极速上手:从零到第一次 AI 对话",
+      "description": "SillyTavern 新手 30 分钟极速上手。5 步走完:选部署方式、获取 API、配置连接、导角色卡和预设、第一次对话。失败率 70% 源于模型名错,每一步附精准排查跳转。",
+      "createdAt": "2026-03-28",
+      "updatedAt": "2026-05-14",
+      "tldr": "5 步搞定。选部署 → 拿 API → 配端点(必须 /v1)→ 导角色卡 → 加预设 → 开聊。第一次失败 70% 是模型名错,15% 端点少 /v1,10% Key 余额为 0。",
+      "keyFacts": [
+        "平均耗时 30 分钟(云端)/ 60-90 分钟(本地部署)",
+        "不会代码也能跑通,关键是别跳过任何一步",
+        "每一步都有明确的失败跳转,卡住别硬耗",
+        "90% 新手应该选云端,本地需要 3 个严格条件"
+      ],
+      "howto": {
+        "name": "SillyTavern 30 分钟极速上手完整流程",
+        "description": "从零开始搭建 SillyTavern AI 角色扮演环境,30 分钟完成首次对话",
+        "totalTime": "PT30M",
+        "steps": [
+          {
+            "name": "决定云端还是本地部署",
+            "text": "3 个问题的决策树快速定位:不懂命令行直接云端,极度重视隐私选本地,高频使用两条路都行。90% 新手推荐云端,具体去 sillytavern.one 注册即可。"
+          },
+          {
+            "name": "准备 AI API 三要素",
+            "text": "拿到 3 样东西:endpoint(以 /v1 结尾)、key(整串无空格)、模型完整名称。方案 A 站内免费模型最简单,方案 B 官方 API 最稳,方案 C 中转商最实用。全部写到记事本避免手抄错。"
+          },
+          {
+            "name": "在酒馆里配置 API",
+            "text": "点左上角插头图标,API 选 Chat Completion,Source 选 Custom (OpenAI-compatible),填 endpoint 和 key,点 Connect 等绿色 valid,最后在模型下拉选对应 slug。保存为 preset 避免重复配置。"
+          },
+          {
+            "name": "导入第一张角色卡",
+            "text": "从 cards.sillytavern.one 下载一张新手友好卡(带 friendly 或 original tag),避免 NSFW 卡。左侧角色栏点 Import,拖入 PNG,点击卡片激活为当前角色。"
+          },
+          {
+            "name": "加载一个预设",
+            "text": "从 presets.sillytavern.one 下载对应模型的 JSON 预设,Sampling 面板 Import Preset,导入后必须从下拉里选中才生效。没有预设的酒馆体验会差一大截,所有人都该配。"
+          },
+          {
+            "name": "发送第一条消息并调试",
+            "text": "底部对话框输入一句,按 Enter 发送,等 3-15 秒。如果 500 错误 70% 是模型名错;空回复试试关 Stream;复读机调 Temperature 到 0.85。跑通就算完成。"
+          }
+        ]
+      },
+      "versionSensitive": true
+    },
+    {
+      "slug": "mobile-guide",
+      "category": "getting-started",
+      "title": "手机使用 SillyTavern 完整指南:iOS / Android / iPad",
+      "description": "手机怎么用 SillyTavern?iOS、Android、iPad 三大平台的最佳方案完整对比和操作步骤,含 Termux 本地部署。",
+      "createdAt": "2026-03-22",
+      "updatedAt": "2026-05-13"
+    },
+    {
+      "slug": "glossary",
+      "category": "getting-started",
+      "title": "酒馆名词速查表:Preset / Lorebook / Persona 一篇讲清",
+      "description": "SillyTavern 常见英文术语速查:角色卡、预设、世界书、Persona、Token、Temperature、Top P、流式输出等核心概念一次讲清楚。",
+      "createdAt": "2026-03-15",
+      "updatedAt": "2026-03-15"
+    },
+    {
+      "slug": "what-is-preset",
+      "category": "presets-lorebooks",
+      "title": "预设是什么?为什么决定了 AI 的灵魂质量",
+      "description": "SillyTavern 预设(Preset)是什么?为什么用了预设的 AI 比不用的强 5 倍?本文从结构、作用、选择、调参四个角度讲清楚。",
+      "createdAt": "2026-04-28",
+      "updatedAt": "2026-04-28"
+    },
+    {
+      "slug": "lorebook-basics",
+      "category": "presets-lorebooks",
+      "title": "世界书入门:让 AI 记住你的整个世界",
+      "description": "SillyTavern 世界书 (Lorebook) 完整入门。讲解条目、关键词、激活策略、插入位置 5 个核心概念,从零创建第一个能用的世界书。",
+      "createdAt": "2026-04-01",
+      "updatedAt": "2026-04-01"
+    },
+    {
+      "slug": "temperature-topp",
+      "category": "presets-lorebooks",
+      "title": "Temperature / Top P / Top K 参数详解:决定 AI '性格'的旋钮",
+      "description": "SillyTavern 生成参数完整解析。Temperature 温度、Top P 核采样、Top K、Frequency Penalty、Presence Penalty 各自的原理与三大模型实战组合配方。",
+      "createdAt": "2026-04-15",
+      "updatedAt": "2026-04-15"
+    },
+    {
+      "slug": "valid-but-500",
+      "category": "troubleshooting",
+      "title": "SillyTavern Valid 但 500 完整排查指南:6 层决策树定位 90% 错误",
+      "description": "API 连接 valid 但发消息 500?70% 模型名错、10% 端点缺 /v1、10% Key 余额 0、5% 参数兼容、3% 上游、2% 网络。6 层结构化排查,带 curl 验证 + Claude/o1/Gemini 各家特殊坑 + 10 问 FAQ。",
+      "createdAt": "2026-05-05",
+      "updatedAt": "2026-05-14",
+      "tldr": "Valid 只证明端点和 Key 能登录,不证明模型可用。500 排错按概率:模型名错 70% / 端点缺 /v1 10% / Key 余额 0 10% / 参数兼容性 5% / 上游故障 3% / 网络 2%。",
+      "keyFacts": [
+        "Valid ≠ 模型可用——它只过了'门禁',没过'会议室门'",
+        "70% 的 500 是模型名拼错(中文标点 / 空格 / 大小写 / 版本号过期 / 复制截断)",
+        "Claude 必须保持 Frequency / Presence / Repetition Penalty = 0,否则 422 或 500",
+        "多家平台余额 = 0 时密钥依然 valid,这是 500 第二大元凶",
+        "90% 的 500 在前 3 层(模型名 / 端点 / Key 状态)能解决,别死磕第 4-6 层"
+      ],
+      "faq": [
+        {
+          "q": "valid 但 500,99% 是什么?",
+          "a": "模型名错。70% 案例。如果你只有 5 分钟时间排查,只查模型名就好——重新精确复制服务商文档里的 slug,注意中文标点、大小写、首尾空格。"
+        },
+        {
+          "q": "我换了 3 个模型还是 500,怎么回事?",
+          "a": "不是模型问题。八成是参数兼容(尤其用 Claude 时 Frequency / Presence Penalty 非 0)或 Key 状态(余额耗尽)。看错误原文 JSON,90% 会直接告诉你真因。"
+        },
+        {
+          "q": "同样 Key 别人能用我不能,可能吗?",
+          "a": "如果用的是中转商共享 Key 池,你可能刚好被分到的子 Key 挂了。让客服退出重连重新分配。如果用的是独立 Key,大概率是你 Sampling 参数和别人不同。"
+        },
+        {
+          "q": "突然之前能用的开始 500?",
+          "a": "最常见 4 种原因:① Key 余额耗尽 ② 上游故障(看状态页)③ 中转商更新了模型版本号但你没改 ④ 中转商被运营商干扰。先查余额,5 秒搞定。"
+        },
+        {
+          "q": "中转商说他们没问题但我就是 500?",
+          "a": "让他们提供调用日志(中转商有日志权限,能看到上游返回的真实错误)。如果他们拒绝提供日志或推诿,换中转商。靠谱的中转商应该愿意 5 分钟内出具体日志。"
+        },
+        {
+          "q": "Claude 一定要把 Penalty 设 0 吗?",
+          "a": "是。Anthropic API 不实现 frequency / presence / repetition penalty 这 3 个字段。任何非 0 值都报错,不同中转商转成 422 / 500 / 400 不等,但本质都是同一个问题。"
+        },
+        {
+          "q": "余额 5 美元也 500?",
+          "a": "有可能。如果你单次调用估算超过 5 美元(比如把 50 万 token 上下文发给 Opus),平台会预扣超额拒绝。或者你正好赶上了平台月度账单结算冻结。再或者中转商按整月套餐计费,本月已耗尽。"
+        },
+        {
+          "q": "502 / 503 / 504 算 500 这一类吗?",
+          "a": "不算同一类,但排查思路类似——都是上游问题。500 = 程序自己崩,502 = 网关坏,503 = 服务过载,504 = 上游超时。遇到这几个码,直接跳第 5 层(等或切备用渠道)。"
+        },
+        {
+          "q": "'模型名带 -latest 比版本号好'对吗?",
+          "a": "看场景。OpenAI 的 gpt-4-turbo 和 gpt-4-turbo-2024-04-09 不一样,前者会自动跟随更新,后者钉死版本。重度用户建议钉死版本,避免无声升级带来的行为变化(花的钱可能也会变)。新手图省事用 latest 类标签也没问题。"
+        },
+        {
+          "q": "Stream 关了能解决空回复但不能解决 500?",
+          "a": "对。Stream 是流式输出问题,影响'输出完整性'(可能截断或空回复)。500 是请求被拒,影响'能不能调用'(根本没开始输出)。两个层级不同,排查路径也不同。Stream 问题看 [AI 回复空白 / 截断](/troubleshooting/empty-truncated/)。"
+        }
+      ],
+      "versionSensitive": true
+    },
+    {
+      "slug": "empty-truncated",
+      "category": "troubleshooting",
+      "title": "AI 回复空白 / 截断 / 突然停止:六大原因与对策",
+      "description": "SillyTavern AI 回复异常完整排查:回复为空、中途截断、内容太短、突然失联四种现象分别对应的原因和解决方案,含万能反截断技巧。",
+      "createdAt": "2026-03-29",
+      "updatedAt": "2026-03-29"
+    },
+    {
+      "slug": "error-codes",
+      "category": "troubleshooting",
+      "title": "常见错误码速查:401 / 403 / 404 / 429 / 500 / 502",
+      "description": "SillyTavern HTTP 错误码完整速查表,按出错概率排序。401 鉴权失败、429 限流、500 内部错误、ECONNRESET 等所有场景的真实原因与解决方案。",
+      "createdAt": "2026-04-18",
+      "updatedAt": "2026-04-18"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📖 在线版教程站
+    url: https://guide.sillytavern.one/
+    about: 直接看在线版可能更快
+  - name: 💬 实时讨论
+    url: https://github.com/sillytavern-zh/sillytavern-chinese-guide/discussions
+    about: 想讨论但不确定是不是 issue 的,在 Discussions 提

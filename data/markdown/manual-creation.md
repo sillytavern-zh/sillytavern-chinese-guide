@@ -1,3 +1,16 @@
+---
+title: "自己做一张角色卡:从概念到成品的 5 步流程"
+description: "SillyTavern 角色卡制作完整教程,5 步走完概念设计、角色描述、第一句话、示例对话、测试导出,含好描述/坏描述对比与避坑指南。"
+slug: manual-creation
+category: character-cards
+canonical: https://guide.sillytavern.one/character-cards/manual-creation/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/character-cards/manual-creation/](https://guide.sillytavern.one/character-cards/manual-creation/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 用别人的角色卡再爽，**也不如自己做一张更对自己胃口**。
 
 这一篇教你从概念到成品做出**第一张属于自己的角色卡**。
@@ -108,3 +121,14 @@
 
 - [角色卡导入完整指南](/character-cards/import-guide/)
 - [预设是什么](/presets-lorebooks/what-is-preset/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [自己做一张角色卡:从概念到成品的 5 步流程](https://guide.sillytavern.one/character-cards/manual-creation/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/character-cards/manual-creation/) 为准。

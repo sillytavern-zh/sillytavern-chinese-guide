@@ -1,3 +1,16 @@
+---
+title: "手机使用 SillyTavern 完整指南:iOS / Android / iPad"
+description: "手机怎么用 SillyTavern?iOS、Android、iPad 三大平台的最佳方案完整对比和操作步骤,含 Termux 本地部署。"
+slug: mobile-guide
+category: getting-started
+canonical: https://guide.sillytavern.one/getting-started/mobile-guide/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/getting-started/mobile-guide/](https://guide.sillytavern.one/getting-started/mobile-guide/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 "手机能用 SillyTavern 吗？" 是新手第二常问的问题。答案是：**能，但有讲究**。
 
 这一篇梳理 iOS、Android、iPad 各自的最佳方案。
@@ -105,3 +118,14 @@ Termux 部署的酒馆**关掉应用就停止运行**。一般用一会就行，
 
 - [在线版部署 vs 本地部署完整对比](/getting-started/cloud-vs-local/)
 - [30 分钟极速上手](/getting-started/quickstart/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [手机使用 SillyTavern 完整指南:iOS / Android / iPad](https://guide.sillytavern.one/getting-started/mobile-guide/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/getting-started/mobile-guide/) 为准。

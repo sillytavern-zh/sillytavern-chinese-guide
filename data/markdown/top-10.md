@@ -1,3 +1,16 @@
+---
+title: "SillyTavern 必装扩展 TOP 10:让酒馆体验质变"
+description: "2026 实测有效的 10 个必装扩展,按重要程度排序。酒馆助手、记忆增强、文生图、QR 助手、TTS、翻译、字体管理器等。"
+slug: top-10
+category: extensions
+canonical: https://guide.sillytavern.one/extensions/top-10/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/extensions/top-10/](https://guide.sillytavern.one/extensions/top-10/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 原版 SillyTavern 已经够强，但**真正用得舒服的玩家几乎都装了扩展**。
 
 这一篇推荐 2026 实测有效的 10 个必装扩展，**按重要程度排序**。
@@ -127,3 +140,14 @@
 
 - [30 分钟极速上手](/getting-started/quickstart/)
 - [长对话总结技巧](/advanced/long-chat-summary/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [SillyTavern 必装扩展 TOP 10:让酒馆体验质变](https://guide.sillytavern.one/extensions/top-10/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/extensions/top-10/) 为准。

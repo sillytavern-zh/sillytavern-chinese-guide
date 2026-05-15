@@ -1,3 +1,16 @@
+---
+title: "自定义 API 端点完整配置教程:9 步打通任意 OpenAI 兼容 API"
+description: "SillyTavern 自定义 API 端点完整 9 步配置教程。覆盖 Claude / GPT / Gemini / DeepSeek / Ollama 本地模型。90% 失败在端点格式或模型名,每一步附精准排查。含多 API 管理、Key 安全、完整错误码对照表。"
+slug: custom-api-setup
+category: api-config
+canonical: https://guide.sillytavern.one/api-config/custom-api-setup/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/api-config/custom-api-setup/](https://guide.sillytavern.one/api-config/custom-api-setup/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 # 自定义 API 端点完整配置教程:9 步打通任意 OpenAI 兼容 API
 
 > **一句话答**:9 步配通所有 OpenAI 兼容 API。成败在 2 个地方:Endpoint 是否 `/v1` 结尾、模型名是否 100% 准确(一个空格或中文标点就 500)。
@@ -463,3 +476,14 @@ API Key 泄露 = 有人用你的钱。
 - 按量 vs 按次谁划算? → [计费模式完整对比](/api-config/pricing-models/)
 - 完全新手没跑通? → [30 分钟极速上手](/getting-started/quickstart/)
 - 出各种错? → [错误码速查表](/troubleshooting/error-codes/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [自定义 API 端点完整配置教程:9 步打通任意 OpenAI 兼容 API](https://guide.sillytavern.one/api-config/custom-api-setup/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/api-config/custom-api-setup/) 为准。

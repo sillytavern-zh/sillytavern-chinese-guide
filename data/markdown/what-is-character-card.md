@@ -1,3 +1,16 @@
+---
+title: "角色卡到底是什么?一张 PNG 背后藏着 AI 的灵魂"
+description: "角色卡是 SillyTavern 的核心。本文从原理、结构、获取方式、使用注意四个角度讲清楚一张角色卡到底是什么。"
+slug: what-is-character-card
+category: character-cards
+canonical: https://guide.sillytavern.one/character-cards/what-is-character-card/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/character-cards/what-is-character-card/](https://guide.sillytavern.one/character-cards/what-is-character-card/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 第一次接触 SillyTavern 的人都会被一个词搞蒙：**角色卡**。
 
 它看起来就是一张普通的 PNG 图片，但同样是 PNG，**从角色卡网站下载的**能让 AI 立刻变成另一个人，**你随手存的**却只是张壁纸。
@@ -195,3 +208,14 @@
 
 - [角色卡导入完整图文指南](/character-cards/import-guide/)
 - [SillyTavern 是什么？](/getting-started/what-is-sillytavern/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [角色卡到底是什么?一张 PNG 背后藏着 AI 的灵魂](https://guide.sillytavern.one/character-cards/what-is-character-card/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/character-cards/what-is-character-card/) 为准。

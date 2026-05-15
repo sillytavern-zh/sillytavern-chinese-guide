@@ -1,3 +1,16 @@
+---
+title: "群聊模式入门:让多个 AI 角色同台演出"
+description: "SillyTavern 群聊 (Group Chat) 完整入门。创建群聊、配置发言策略、多角色互动技巧、常见问题与让群聊活起来的秘诀。"
+slug: group-chat
+category: advanced
+canonical: https://guide.sillytavern.one/advanced/group-chat/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/advanced/group-chat/](https://guide.sillytavern.one/advanced/group-chat/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 单角色聊久了无聊？**让多个角色同台演出**才是真精彩。
 
 这一篇带你玩转 SillyTavern 的群聊功能。
@@ -127,3 +140,14 @@
 
 - [角色卡是什么](/character-cards/what-is-character-card/)
 - [世界书入门](/presets-lorebooks/lorebook-basics/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [群聊模式入门:让多个 AI 角色同台演出](https://guide.sillytavern.one/advanced/group-chat/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/advanced/group-chat/) 为准。

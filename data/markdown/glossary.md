@@ -1,3 +1,16 @@
+---
+title: "酒馆名词速查表:Preset / Lorebook / Persona 一篇讲清"
+description: "SillyTavern 常见英文术语速查:角色卡、预设、世界书、Persona、Token、Temperature、Top P、流式输出等核心概念一次讲清楚。"
+slug: glossary
+category: getting-started
+canonical: https://guide.sillytavern.one/getting-started/glossary/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/getting-started/glossary/](https://guide.sillytavern.one/getting-started/glossary/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 SillyTavern 圈子里有一堆让新人头疼的英文术语。这一篇把它们一次性讲清楚，**遇到不懂的回来查就行**。
 
 按使用频率从高到低排序。
@@ -98,3 +111,14 @@ AI 一次能"看见"的最大文本量。常见值：
 
 - [SillyTavern 是什么](/getting-started/what-is-sillytavern/)
 - [预设是什么](/presets-lorebooks/what-is-preset/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [酒馆名词速查表:Preset / Lorebook / Persona 一篇讲清](https://guide.sillytavern.one/getting-started/glossary/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/getting-started/glossary/) 为准。

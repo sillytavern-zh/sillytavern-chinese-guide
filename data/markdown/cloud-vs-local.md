@@ -1,3 +1,16 @@
+---
+title: "云端版 vs 本地部署:成本、稳定性、上手难度深度对比"
+description: "SillyTavern 云端版和本地部署到底哪个适合你?从成本、稳定性、易用性、隐私四个维度完整对比,附本地部署快速教程和挑选云端运营方标准。"
+slug: cloud-vs-local
+category: getting-started
+canonical: https://guide.sillytavern.one/getting-started/cloud-vs-local/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/getting-started/cloud-vs-local/](https://guide.sillytavern.one/getting-started/cloud-vs-local/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 刚把酒馆跑起来的人,十有八九都会卡在这个选择上：
 
 > "我到底该用云端版酒馆，还是自己本地部署？"
@@ -150,3 +163,14 @@ npm config set registry https://registry.npmmirror.com
 
 - [SillyTavern 是什么？](/getting-started/what-is-sillytavern/)
 - [角色卡导入完整图文指南](/character-cards/import-guide/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [云端版 vs 本地部署:成本、稳定性、上手难度深度对比](https://guide.sillytavern.one/getting-started/cloud-vs-local/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/getting-started/cloud-vs-local/) 为准。

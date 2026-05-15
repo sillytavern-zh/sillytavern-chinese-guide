@@ -1,3 +1,16 @@
+---
+title: "角色卡导入完整指南:从下载到第一次对话的全流程"
+description: "SillyTavern 角色卡导入完整流程,含导入方法、备选问候语切换、导入失败 9 大原因排查。"
+slug: import-guide
+category: character-cards
+canonical: https://guide.sillytavern.one/character-cards/import-guide/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/character-cards/import-guide/](https://guide.sillytavern.one/character-cards/import-guide/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 下载了角色卡却不知道怎么导入？导入了却发现头像是空的？或者点了"导入"什么反应都没有？这一篇把整个流程从头到尾梳理一遍。
 
 ## 导入前的准备
@@ -113,3 +126,14 @@ SillyTavern 里"你"也是有人设的，叫 Persona。可以设置自己的名�
 
 - [角色卡到底是什么？](/character-cards/what-is-character-card/)
 - [SillyTavern 是什么？](/getting-started/what-is-sillytavern/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [角色卡导入完整指南:从下载到第一次对话的全流程](https://guide.sillytavern.one/character-cards/import-guide/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/character-cards/import-guide/) 为准。

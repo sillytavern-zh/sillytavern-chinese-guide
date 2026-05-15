@@ -1,3 +1,16 @@
+---
+title: "AI 回复空白 / 截断 / 突然停止:六大原因与对策"
+description: "SillyTavern AI 回复异常完整排查:回复为空、中途截断、内容太短、突然失联四种现象分别对应的原因和解决方案,含万能反截断技巧。"
+slug: empty-truncated
+category: troubleshooting
+canonical: https://guide.sillytavern.one/troubleshooting/empty-truncated/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/troubleshooting/empty-truncated/](https://guide.sillytavern.one/troubleshooting/empty-truncated/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 "我发消息 AI 没反应"、"AI 说一半就停了"、"AI 输出突然就没了"——这一篇把所有"回复异常"的情况按现象归类，对症下药。
 
 空回复最容易让人怀疑人生,但其实 **80% 是流式输出的锅**——往下看你就懂。
@@ -111,3 +124,14 @@ Max Tokens 控制"最多多长"。如果设了 500，AI 就不会超过 500。
 
 - [Valid 但 500 完整排查](/troubleshooting/valid-but-500/)
 - [自定义 API 配置教程](/api-config/custom-api-setup/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [AI 回复空白 / 截断 / 突然停止:六大原因与对策](https://guide.sillytavern.one/troubleshooting/empty-truncated/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/troubleshooting/empty-truncated/) 为准。

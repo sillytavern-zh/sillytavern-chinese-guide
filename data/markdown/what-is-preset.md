@@ -1,3 +1,16 @@
+---
+title: "预设是什么?为什么决定了 AI 的灵魂质量"
+description: "SillyTavern 预设(Preset)是什么?为什么用了预设的 AI 比不用的强 5 倍?本文从结构、作用、选择、调参四个角度讲清楚。"
+slug: what-is-preset
+category: presets-lorebooks
+canonical: https://guide.sillytavern.one/presets-lorebooks/what-is-preset/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/presets-lorebooks/what-is-preset/](https://guide.sillytavern.one/presets-lorebooks/what-is-preset/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 配好 API、导入了角色卡，结果 AI 说话像 ChatGPT 公文，毫无角色感？
 
 99% 是因为**你没用预设**。
@@ -117,3 +130,14 @@
 
 - [SillyTavern 是什么](/getting-started/what-is-sillytavern/)
 - [角色卡是什么](/character-cards/what-is-character-card/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [预设是什么?为什么决定了 AI 的灵魂质量](https://guide.sillytavern.one/presets-lorebooks/what-is-preset/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/presets-lorebooks/what-is-preset/) 为准。

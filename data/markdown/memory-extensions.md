@@ -1,3 +1,16 @@
+---
+title: "SillyTavern 记忆插件横评:Horae / 记忆表格 / Amily2 / 全自动总结 4 家选哪个"
+description: "4 家主流 SillyTavern 记忆插件深度对比,5 维度横评 + 5 步决策树。Horae 时光记忆 / 记忆表格 / Amily2 / 全自动总结脚本各擅长什么、Token 消耗如何、谁适合你。"
+slug: memory-extensions
+category: extensions
+canonical: https://guide.sillytavern.one/extensions/memory-extensions/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/extensions/memory-extensions/](https://guide.sillytavern.one/extensions/memory-extensions/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 被 AI 一句"昨天的事记不清了"打回原形的玩家不在少数。
 
 聊到 60 楼,角色把上周一的约会说成今天早上;送过的礼物凭空消失;NPC 的关系倒置——这不是模型变差,是**上下文窗口装不下那么多东西**了。
@@ -297,3 +310,14 @@
 - **全自动总结脚本**:原作者 人世如潮,二次开发 90
 
 本站仅做客观对比,不为任何一家背书。遇到 bug 请去对应作者的项目仓库提 issue,**不要找本站**——本站不维护这些插件,只整理使用经验。
+
+---
+
+## 📖 关于本文
+
+- **原文**: [SillyTavern 记忆插件横评:Horae / 记忆表格 / Amily2 / 全自动总结 4 家选哪个](https://guide.sillytavern.one/extensions/memory-extensions/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/extensions/memory-extensions/) 为准。

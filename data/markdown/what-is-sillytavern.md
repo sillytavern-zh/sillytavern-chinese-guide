@@ -1,3 +1,16 @@
+---
+title: "SillyTavern 是什么?从开源前端到 AI 角色扮演神器的完整解读"
+description: "SillyTavern(酒馆)是什么?一篇读完:生态关系、和 ChatGPT/Character.AI 的本质差别、2026 年为什么仍值得学、7 种用户画像、真实成本、新手误解、常见故障速查。4500 字完整指南。"
+slug: what-is-sillytavern
+category: getting-started
+canonical: https://guide.sillytavern.one/getting-started/what-is-sillytavern/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/getting-started/what-is-sillytavern/](https://guide.sillytavern.one/getting-started/what-is-sillytavern/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 # SillyTavern 是什么?从开源前端到 AI 角色扮演神器的完整解读
 
 > **一句话答**:SillyTavern(中文圈俗称"酒馆")是一款开源的 AI 角色扮演前端——它本身不产生 AI 内容,而是让你用任何 AI 模型扮演任何角色的"舞台"。把 ChatGPT 那种通用对话,升级成可以管理角色卡、剧情线、参数预设的专业创作工具。
@@ -357,3 +370,14 @@ SillyTavern 不是最简单的 AI 工具。ChatGPT 点开就能用,它不行—�
 
 **Q: 我的角色卡可以保存多久?**
 本地部署:你电脑不坏就永远在。云端版:看服务商承诺。角色卡文件本身是 PNG + JSON,可以随时下载备份。
+
+---
+
+## 📖 关于本文
+
+- **原文**: [SillyTavern 是什么?从开源前端到 AI 角色扮演神器的完整解读](https://guide.sillytavern.one/getting-started/what-is-sillytavern/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/getting-started/what-is-sillytavern/) 为准。

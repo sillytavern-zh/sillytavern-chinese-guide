@@ -1,3 +1,16 @@
+---
+title: "常见错误码速查:401 / 403 / 404 / 429 / 500 / 502"
+description: "SillyTavern HTTP 错误码完整速查表,按出错概率排序。401 鉴权失败、429 限流、500 内部错误、ECONNRESET 等所有场景的真实原因与解决方案。"
+slug: error-codes
+category: troubleshooting
+canonical: https://guide.sillytavern.one/troubleshooting/error-codes/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/troubleshooting/error-codes/](https://guide.sillytavern.one/troubleshooting/error-codes/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 酒馆报错弹出一个数字,你心想"这又是啥",然后开始 Google。
 
 下面这张速查是我自己用过的,按概率排序。看完它,90% 的报错你自己能搞定。
@@ -139,3 +152,14 @@
 
 - [Valid 但 500 完整排查](/troubleshooting/valid-but-500/)
 - [AI 回复空白 / 截断 / 突然停止](/troubleshooting/empty-truncated/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [常见错误码速查:401 / 403 / 404 / 429 / 500 / 502](https://guide.sillytavern.one/troubleshooting/error-codes/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/troubleshooting/error-codes/) 为准。

@@ -1,3 +1,16 @@
+---
+title: "Temperature / Top P / Top K 参数详解:决定 AI '性格'的旋钮"
+description: "SillyTavern 生成参数完整解析。Temperature 温度、Top P 核采样、Top K、Frequency Penalty、Presence Penalty 各自的原理与三大模型实战组合配方。"
+slug: temperature-topp
+category: presets-lorebooks
+canonical: https://guide.sillytavern.one/presets-lorebooks/temperature-topp/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/presets-lorebooks/temperature-topp/](https://guide.sillytavern.one/presets-lorebooks/temperature-topp/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 打开酒馆设置,你会看到一堆参数:Temperature、Top P、Top K、Frequency Penalty、Presence Penalty……
 
 新人通常的反应是:**全部默认,别动了**。
@@ -171,3 +184,14 @@ Max Tokens: 2000
 
 - [预设是什么](/presets-lorebooks/what-is-preset/)
 - [世界书入门](/presets-lorebooks/lorebook-basics/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [Temperature / Top P / Top K 参数详解:决定 AI '性格'的旋钮](https://guide.sillytavern.one/presets-lorebooks/temperature-topp/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/presets-lorebooks/temperature-topp/) 为准。

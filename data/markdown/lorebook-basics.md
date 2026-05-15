@@ -1,3 +1,16 @@
+---
+title: "世界书入门:让 AI 记住你的整个世界"
+description: "SillyTavern 世界书 (Lorebook) 完整入门。讲解条目、关键词、激活策略、插入位置 5 个核心概念,从零创建第一个能用的世界书。"
+slug: lorebook-basics
+category: presets-lorebooks
+canonical: https://guide.sillytavern.one/presets-lorebooks/lorebook-basics/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/presets-lorebooks/lorebook-basics/](https://guide.sillytavern.one/presets-lorebooks/lorebook-basics/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 角色卡能让 AI 变成一个人，**世界书能让 AI 知道整个世界**。
 
 这一篇带你从零理解世界书，做出第一个能用的世界书。
@@ -117,3 +130,14 @@
 
 - [预设是什么](/presets-lorebooks/what-is-preset/)
 - [长对话总结技巧](/advanced/long-chat-summary/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [世界书入门:让 AI 记住你的整个世界](https://guide.sillytavern.one/presets-lorebooks/lorebook-basics/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/presets-lorebooks/lorebook-basics/) 为准。

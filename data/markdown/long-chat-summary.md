@@ -1,3 +1,16 @@
+---
+title: "长对话失忆终极解决方案:三种总结技巧"
+description: "SillyTavern 聊久了 AI 失忆怎么办?手动总结+隐藏、自动总结插件、记忆表格三种方案完整对比与最佳实践组合。"
+slug: long-chat-summary
+category: advanced
+canonical: https://guide.sillytavern.one/advanced/long-chat-summary/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/advanced/long-chat-summary/](https://guide.sillytavern.one/advanced/long-chat-summary/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 聊了 100 楼的剧情突然 AI 完全忘了之前发生啥？这是**所有重度玩家都遇到过**的问题。
 
 这一篇教你三种方法解决长对话失忆。
@@ -130,3 +143,14 @@
 
 - [预设是什么](/presets-lorebooks/what-is-preset/)
 - [世界书入门](/presets-lorebooks/lorebook-basics/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [长对话失忆终极解决方案:三种总结技巧](https://guide.sillytavern.one/advanced/long-chat-summary/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/advanced/long-chat-summary/) 为准。

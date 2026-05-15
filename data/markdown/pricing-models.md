@@ -1,3 +1,16 @@
+---
+title: "按次计费 vs 按量计费:长上下文场景如何省 40 倍"
+description: "AI API 两种主流计费模式完整对比。短对话用按量、长上下文必选按次的真实成本案例,Agent / 长文档分析 / 多轮对话场景的最优选择策略。"
+slug: pricing-models
+category: api-config
+canonical: https://guide.sillytavern.one/api-config/pricing-models/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/api-config/pricing-models/](https://guide.sillytavern.one/api-config/pricing-models/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 "我充了 500 块,玩了一周就花光了"——群里这种抱怨每天能看到。
 
 很多新手以为"用得多花得多"是天经地义的事。但是**长上下文场景下,选错计费模式可能让你的成本暴涨 40 倍**。
@@ -169,3 +182,14 @@
 
 - [2026 主流 AI 模型横评](/ai-models/comparison-2026/)
 - [Claude 全系深度指南](/ai-models/claude-guide/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [按次计费 vs 按量计费:长上下文场景如何省 40 倍](https://guide.sillytavern.one/api-config/pricing-models/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/api-config/pricing-models/) 为准。

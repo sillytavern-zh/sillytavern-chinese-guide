@@ -1,3 +1,16 @@
+---
+title: "Claude 全系深度指南:Sonnet / Opus / Haiku 怎么选"
+description: "Claude 在中文角色扮演中为什么是顶端选择?Sonnet、Opus、Haiku 三档对比、参数避雷、反审查表现、国内中转方案全解。"
+slug: claude-guide
+category: ai-models
+canonical: https://guide.sillytavern.one/ai-models/claude-guide/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/ai-models/claude-guide/](https://guide.sillytavern.one/ai-models/claude-guide/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 中文圈玩 AI 角色扮演,**Claude 系列长期是社区公认的文笔天花板**。
 
 理由不是"它最强",而是它最适合中文创作:文笔自然、不假大空、能写长篇、对复杂角色心理刻画细腻。
@@ -168,3 +181,14 @@ Claude 的温度感比 OpenAI 更敏感。
 - [2026 主流 AI 模型横评](/ai-models/comparison-2026/)
 - [自定义 API 端点配置](/api-config/custom-api-setup/)
 - [Temperature / Top P / Top K 参数详解](/presets-lorebooks/temperature-topp/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [Claude 全系深度指南:Sonnet / Opus / Haiku 怎么选](https://guide.sillytavern.one/ai-models/claude-guide/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/ai-models/claude-guide/) 为准。

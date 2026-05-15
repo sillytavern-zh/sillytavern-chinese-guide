@@ -1,8 +1,15 @@
 # 📖 SillyTavern 中文教程站
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Last Sync](https://img.shields.io/badge/last%20sync-2026-05-15-blue)](https://github.com/sillytavern-zh/sillytavern-chinese-guide/commits/main)
+[![Articles](https://img.shields.io/badge/articles-26-green)](#-完整目录)
+[![Pillar](https://img.shields.io/badge/pillar-5-orange)](#-完整目录)
+
 > 中文 SillyTavern 用户的权威教程、故障排查与进阶玩法
 
-🌐 **在线版:** https://guide.sillytavern.one/
+🌐 **在线版(原文):** https://guide.sillytavern.one/
+
+> ⚠️ **本仓库是镜像归档,不是主站**。最新内容、最新示例、最新外链请访问 [guide.sillytavern.one](https://guide.sillytavern.one/)。
 
 本仓库是 [guide.sillytavern.one](https://guide.sillytavern.one/) 的内容快照,所有文章独立维护,不隶属任何运营方,不出售任何 API 或订阅。
 
@@ -12,7 +19,7 @@
 
 ## 📚 完整目录
 
-> ⭐ = Pillar 级长文 · 🛡 = 反时效化(版本中性,长期有效)
+> ⭐ = Pillar 级长文(3000+字) · 🛡 = 反时效化(版本中性,长期有效)
 
 ### 🚀 新手入门
 _从零到第一次 AI 对话_
@@ -155,25 +162,19 @@ _长对话 / 群聊 / 高阶技巧_
 ## 🤝 贡献
 
 欢迎社区贡献:
-
 - 修错字 / 排版 / 链接失效 → 直接 PR
 - 补充新坑 / 实战经验 → 先开 issue 讨论
 - 加新教程 → 先开 issue 讨论选题
 
-详细贡献指南见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 **不接受**:任何 API / 中转商推广 / 广告内容 / 商业引流。
 
 ## 📜 协议
 
-本仓库内容采用 [**CC BY-NC-SA 4.0**](LICENSE) 协议。
-
-- ✅ 允许:转载 / 改编 / 再创作(需注明来源)
-- ❌ 不允许:商业用途 / 不署名 / 改许可证
+内容采用 [**CC BY-NC-SA 4.0**](LICENSE)。允许转载、改编、再创作(注明来源),不允许商用和不署名使用。
 
 ## ✍️ 写作原则(反时效化设计)
-
-本站教程的核心叙事原则,确保内容长期有效:
 
 1. **反时效化** — 写 "Claude Sonnet 模型" 而不是 "Claude Sonnet 4.5"
 2. **多家平等** — 横评时按字母序或上手难度排,不刻意暗示主推
@@ -184,7 +185,6 @@ _长对话 / 群聊 / 高阶技巧_
 ## 🔄 更新
 
 本仓库每周日 23:30 自动从 [在线版](https://guide.sillytavern.one/) 同步一次完整快照。
-提交历史可追溯每一次内容变化。
 
 ## 🙏 鸣谢
 

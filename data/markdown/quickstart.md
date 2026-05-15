@@ -1,3 +1,16 @@
+---
+title: "30 分钟极速上手:从零到第一次 AI 对话"
+description: "SillyTavern 新手 30 分钟极速上手。5 步走完:选部署方式、获取 API、配置连接、导角色卡和预设、第一次对话。失败率 70% 源于模型名错,每一步附精准排查跳转。"
+slug: quickstart
+category: getting-started
+canonical: https://guide.sillytavern.one/getting-started/quickstart/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/getting-started/quickstart/](https://guide.sillytavern.one/getting-started/quickstart/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 # 30 分钟极速上手:从零到第一次 AI 对话
 
 > **一句话答**:5 步搞定 —— 选部署方式 → 拿 API → 配端点 → 导角色卡 → 开始对话。第一次失败?**70% 是模型名写错**、15% 是端点少了 `/v1`、10% 是 Key 余额为 0,剩下 5% 各种小事。
@@ -372,3 +385,14 @@ model: 你的服务商文档里列出的完整 slug
 - 想选一个适合自己的模型? → [主流 AI 模型横评](/ai-models/comparison-2026/)
 - 想学更多玩法? → [群聊模式入门](/advanced/group-chat/)
 - 完全新手没跑通? → [SillyTavern 是什么](/getting-started/what-is-sillytavern/) 先补认知
+
+---
+
+## 📖 关于本文
+
+- **原文**: [30 分钟极速上手:从零到第一次 AI 对话](https://guide.sillytavern.one/getting-started/quickstart/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/getting-started/quickstart/) 为准。

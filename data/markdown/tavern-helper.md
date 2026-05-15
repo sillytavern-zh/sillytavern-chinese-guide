@@ -1,3 +1,16 @@
+---
+title: "酒馆助手 Tavern Helper:80% 高级扩展依赖的'地基'"
+description: "为什么酒馆助手是必须装的第一个扩展?它的作用、安装方法、常见安装失败原因、高级用法(自定义 JS / Slash 命令 / 双向交互)完整指南。"
+slug: tavern-helper
+category: extensions
+canonical: https://guide.sillytavern.one/extensions/tavern-helper/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/extensions/tavern-helper/](https://guide.sillytavern.one/extensions/tavern-helper/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 "为什么我装的 XX 扩展报错?"
 
 群里这个问题每周出现至少十次。
@@ -129,3 +142,14 @@ https://gitlab.com/novi028/JS-Slash-Runner
 
 - [必装扩展 TOP 10](/extensions/top-10/)
 - [长对话总结技巧](/advanced/long-chat-summary/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [酒馆助手 Tavern Helper:80% 高级扩展依赖的'地基'](https://guide.sillytavern.one/extensions/tavern-helper/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/extensions/tavern-helper/) 为准。

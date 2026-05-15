@@ -1,3 +1,16 @@
+---
+title: "SillyTavern 本地部署完整教程:Windows / macOS / Linux 三平台傻瓜式指南"
+description: "SillyTavern 本地部署全平台完整步骤。从装 Node.js 到跑通第一次对话,所有报错完整对照表,30-90 分钟跑通。"
+slug: local-install
+category: getting-started
+canonical: https://guide.sillytavern.one/getting-started/local-install/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/getting-started/local-install/](https://guide.sillytavern.one/getting-started/local-install/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 > **一句话答**:跑通本地部署 = 装 Node.js 20+ → git clone → npm install → node server.js → 浏览器打开 localhost:8000。三个平台原理一致,差异只在装 Node 这一步上。
 
 > **关键事实**
@@ -264,3 +277,14 @@ node server.js
 - [云端版 vs 本地部署完整对比](/getting-started/cloud-vs-local/)
 - [30 分钟极速上手](/getting-started/quickstart/)
 - [自定义 API 端点配置](/api-config/custom-api-setup/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [SillyTavern 本地部署完整教程:Windows / macOS / Linux 三平台傻瓜式指南](https://guide.sillytavern.one/getting-started/local-install/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/getting-started/local-install/) 为准。

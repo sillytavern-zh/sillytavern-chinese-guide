@@ -1,3 +1,16 @@
+---
+title: "2026 主流 AI 模型横评:Claude / Gemini / GPT / DeepSeek"
+description: "2026 年 SillyTavern 主流 AI 模型完整横评,Claude、Gemini、GPT-4o、DeepSeek 四大模型优劣势对比,根据场景给出选型建议。"
+slug: comparison-2026
+category: ai-models
+canonical: https://guide.sillytavern.one/ai-models/comparison-2026/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/ai-models/comparison-2026/](https://guide.sillytavern.one/ai-models/comparison-2026/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 "哪个模型最适合 SillyTavern" 是新手最纠结的问题之一。
 
 但很多人选错的根本原因是:选了别人推荐的而不是适合自己的。
@@ -231,3 +244,14 @@
 - [按次 vs 按量计费完整对比](/api-config/pricing-models/)
 - [预设是什么?](/presets-lorebooks/what-is-preset/)
 - [Temperature / Top P / Top K 参数详解](/presets-lorebooks/temperature-topp/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [2026 主流 AI 模型横评:Claude / Gemini / GPT / DeepSeek](https://guide.sillytavern.one/ai-models/comparison-2026/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/ai-models/comparison-2026/) 为准。

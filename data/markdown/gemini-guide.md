@@ -1,3 +1,16 @@
+---
+title: "Gemini 全家桶解析:Flash 和 Pro 的真实差异"
+description: "Gemini 系列完整选型指南。Flash 性价比之王、Pro 中端主力、Ultra 为何不推荐、空回复反截断完整解决方案、100 万 token 上下文的妙用。"
+slug: gemini-guide
+category: ai-models
+canonical: https://guide.sillytavern.one/ai-models/gemini-guide/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/ai-models/gemini-guide/](https://guide.sillytavern.one/ai-models/gemini-guide/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 Google 的 Gemini 在最近这两年突飞猛进。从最初被吐槽"不如 GPT-3.5"到现在成为很多重度玩家的主力——尤其是**写长篇的**。
 
 但 Gemini 也是脾气最古怪的——你以为它跑得好好的,它突然给你来一个空白回复。
@@ -158,3 +171,14 @@ Gemini 比 Claude 更容易"中途停"。
 - [2026 主流 AI 模型横评](/ai-models/comparison-2026/)
 - [按次 vs 按量计费完整对比](/api-config/pricing-models/)
 - [AI 回复空白 / 截断完整排查](/troubleshooting/empty-truncated/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [Gemini 全家桶解析:Flash 和 Pro 的真实差异](https://guide.sillytavern.one/ai-models/gemini-guide/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/ai-models/gemini-guide/) 为准。

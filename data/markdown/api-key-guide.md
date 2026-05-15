@@ -1,3 +1,16 @@
+---
+title: "API Key 怎么填、怎么验证、怎么排查问题"
+description: "SillyTavern API Key 配置完整实战。从复制 Key 到 valid 验证、余额查询、多 Key 管理、安全保存的所有坑点和解决方案。"
+slug: api-key-guide
+category: api-config
+canonical: https://guide.sillytavern.one/api-config/api-key-guide/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/api-config/api-key-guide/](https://guide.sillytavern.one/api-config/api-key-guide/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 打开酒馆,设置好端点,Key 一贴...
 Invalid API Key
 
@@ -115,3 +128,14 @@ API Key 这玩意吧,本身简单。复杂的是你的手不抖、眼不花、�
 
 - [Valid 但 500 完整排查](/troubleshooting/valid-but-500/)
 - [自定义 API 端点完整配置](/api-config/custom-api-setup/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [API Key 怎么填、怎么验证、怎么排查问题](https://guide.sillytavern.one/api-config/api-key-guide/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/api-config/api-key-guide/) 为准。

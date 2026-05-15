@@ -1,3 +1,16 @@
+---
+title: "SillyTavern Valid 但 500 完整排查指南:6 层决策树定位 90% 错误"
+description: "API 连接 valid 但发消息 500?70% 模型名错、10% 端点缺 /v1、10% Key 余额 0、5% 参数兼容、3% 上游、2% 网络。6 层结构化排查,带 curl 验证 + Claude/o1/Gemini 各家特殊坑 + 10 问 FAQ。"
+slug: valid-but-500
+category: troubleshooting
+canonical: https://guide.sillytavern.one/troubleshooting/valid-but-500/
+license: CC BY-NC-SA 4.0
+source: SillyTavern 中文教程站
+---
+
+> 📚 **本文原始版本及最新更新**: [https://guide.sillytavern.one/troubleshooting/valid-but-500/](https://guide.sillytavern.one/troubleshooting/valid-but-500/)
+> 📜 协议: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 你把 Key 填进去,点连接,绿色 Valid,心里刚松一口气,**结果第一句话直接 500**。
 
 这是社群里出现频率最高的崩溃瞬间之一:
@@ -348,3 +361,14 @@ Key 余额 > 0?Key 没过期?(10%)
 - [API Key 怎么填、怎么验证、怎么排查问题](/api-config/api-key-guide/)
 - [AI 回复空白 / 截断 / 突然停止](/troubleshooting/empty-truncated/)
 - [30 分钟极速上手](/getting-started/quickstart/)
+
+---
+
+## 📖 关于本文
+
+- **原文**: [SillyTavern Valid 但 500 完整排查指南:6 层决策树定位 90% 错误](https://guide.sillytavern.one/troubleshooting/valid-but-500/)
+- **教程站首页**: [SillyTavern 中文教程站](https://guide.sillytavern.one/)
+- **GitHub 镜像**: [sillytavern-zh/sillytavern-chinese-guide](https://github.com/sillytavern-zh/sillytavern-chinese-guide)
+- **协议**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — 允许转载/改编/再创作(需注明来源),不允许商用
+
+> 转载请保留本段。最新内容请以 [在线版](https://guide.sillytavern.one/troubleshooting/valid-but-500/) 为准。

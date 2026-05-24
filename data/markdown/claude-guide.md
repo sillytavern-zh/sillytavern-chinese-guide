@@ -1,6 +1,6 @@
 ---
 title: "Claude 全系深度指南:Sonnet / Opus / Haiku 怎么选"
-description: "Claude 在中文角色扮演中为什么是顶端选择?Sonnet、Opus、Haiku 三档对比、参数避雷、反审查表现、国内中转方案全解。"
+description: "Claude 在中文角色扮演中为什么是顶端选择?Sonnet、Opus、Haiku 三档对比、参数避雷、反审查表现、国内中转方案全解。覆盖 Sonnet 性价比平衡、Opus 顶级写作、Haiku 速度优先的场景选择,带 prompt 优化技巧、反审查 jailbreak 现状、国内中转 + 直连方案完整对比。"
 slug: claude-guide
 category: ai-models
 canonical: https://guide.sillytavern.one/ai-models/claude-guide/

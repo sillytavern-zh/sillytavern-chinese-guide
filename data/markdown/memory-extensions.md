@@ -1,6 +1,6 @@
 ---
 title: "SillyTavern 记忆插件横评:Horae / 记忆表格 / Amily2 / 全自动总结 4 家选哪个"
-description: "4 家主流 SillyTavern 记忆插件深度对比,5 维度横评 + 5 步决策树。Horae 时光记忆 / 记忆表格 / Amily2 / 全自动总结脚本各擅长什么、Token 消耗如何、谁适合你。"
+description: "4 家主流 SillyTavern 记忆插件深度对比,5 维度横评 + 5 步决策树。Horae 时光记忆 / 记忆表格 / Amily2 / 全自动总结脚本各擅长什么、Token 消耗如何、谁适合你。从根本原理(向量化 vs 总结摘要)出发,带每家的真实案例、长对话表现、跨轮一致性测试结果。"
 slug: memory-extensions
 category: extensions
 canonical: https://guide.sillytavern.one/extensions/memory-extensions/

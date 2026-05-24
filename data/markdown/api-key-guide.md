@@ -1,6 +1,6 @@
 ---
 title: "API Key 怎么填、怎么验证、怎么排查问题"
-description: "SillyTavern API Key 配置完整实战。从复制 Key 到 valid 验证、余额查询、多 Key 管理、安全保存的所有坑点和解决方案。"
+description: "SillyTavern API Key 配置完整实战。从复制 Key 到 valid 验证、余额查询、多 Key 管理、安全保存的所有坑点和解决方案。覆盖 Claude / GPT / Gemini / DeepSeek / 国内中转商各家的 Key 格式差异、有效期管理、Key 泄露后的应急处理、防止误推 GitHub 的安全实践。"
 slug: api-key-guide
 category: api-config
 canonical: https://guide.sillytavern.one/api-config/api-key-guide/

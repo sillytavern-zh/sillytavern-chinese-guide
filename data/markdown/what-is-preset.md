@@ -1,6 +1,6 @@
 ---
 title: "预设是什么?为什么决定了 AI 的灵魂质量"
-description: "SillyTavern 预设(Preset)是什么?为什么用了预设的 AI 比不用的强 5 倍?本文从结构、作用、选择、调参四个角度讲清楚。"
+description: "SillyTavern 预设(Preset)是什么?为什么用了预设的 AI 比不用的强 5 倍?本文从结构、作用、选择、调参四个角度讲清楚。覆盖系统提示词模板、上下文管理、Story String 与 ChatHistory 的拼接逻辑、模型适配差异(Claude vs GPT vs Gemini),小白通用的预设选择指南。"
 slug: what-is-preset
 category: presets-lorebooks
 canonical: https://guide.sillytavern.one/presets-lorebooks/what-is-preset/

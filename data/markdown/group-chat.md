@@ -1,6 +1,6 @@
 ---
 title: "群聊模式入门:让多个 AI 角色同台演出"
-description: "SillyTavern 群聊 (Group Chat) 完整入门。创建群聊、配置发言策略、多角色互动技巧、常见问题与让群聊活起来的秘诀。"
+description: "SillyTavern 群聊 (Group Chat) 完整入门。创建群聊、配置发言策略、多角色互动技巧、常见问题与让群聊活起来的秘诀。覆盖角色发言顺序设置、共享记忆策略、群聊专用提示词、单独 vs 集体设置等核心主题,适合想从单聊升级到剧本群演的玩家。"
 slug: group-chat
 category: advanced
 canonical: https://guide.sillytavern.one/advanced/group-chat/

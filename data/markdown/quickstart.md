@@ -1,6 +1,6 @@
 ---
 title: "30 分钟极速上手:从零到第一次 AI 对话"
-description: "SillyTavern 新手 30 分钟极速上手。5 步走完:选部署方式、获取 API、配置连接、导角色卡和预设、第一次对话。失败率 70% 源于模型名错,每一步附精准排查跳转。"
+description: "SillyTavern 新手 30 分钟极速上手。5 步走完:选部署方式、获取 API、配置连接、导角色卡和预设、第一次对话。失败率 70% 源于模型名错,每一步附精准排查跳转。包含 HowTo 结构化步骤、错误现象 → 跳转 ID 的完整诊断地图,小白也能不卡壳通到第一次 AI 对话。"
 slug: quickstart
 category: getting-started
 canonical: https://guide.sillytavern.one/getting-started/quickstart/

@@ -1,6 +1,6 @@
 ---
 title: "自己做一张角色卡:从概念到成品的 5 步流程"
-description: "SillyTavern 角色卡制作完整教程,5 步走完概念设计、角色描述、第一句话、示例对话、测试导出,含好描述/坏描述对比与避坑指南。"
+description: "SillyTavern 角色卡制作完整教程,5 步走完概念设计、角色描述、第一句话、示例对话、测试导出,含好描述/坏描述对比与避坑指南。从零开始 90 分钟做出第一张能用的卡,覆盖人设深度、性格一致性、避免 AI 突然出戏的写作技巧,带模板可直接套用。"
 slug: manual-creation
 category: character-cards
 canonical: https://guide.sillytavern.one/character-cards/manual-creation/

@@ -1,6 +1,6 @@
 ---
 title: "2026 主流 AI 模型横评:Claude / Gemini / GPT / DeepSeek"
-description: "2026 年 SillyTavern 主流 AI 模型完整横评,Claude、Gemini、GPT-4o、DeepSeek 四大模型优劣势对比,根据场景给出选型建议。"
+description: "2026 年 SillyTavern 主流 AI 模型完整横评,Claude、Gemini、GPT-4o、DeepSeek 四大模型优劣势对比,根据场景给出选型建议。覆盖中文表现、反审查能力、推理深度、写作质量、价格对比、上下文长度、可用性 6 大维度,带真实角色扮演案例与避雷指南。"
 slug: comparison-2026
 category: ai-models
 canonical: https://guide.sillytavern.one/ai-models/comparison-2026/

@@ -1,6 +1,6 @@
 ---
 title: "SillyTavern 本地部署完整教程:Windows / macOS / Linux 三平台傻瓜式指南"
-description: "SillyTavern 本地部署全平台完整步骤。从装 Node.js 到跑通第一次对话,所有报错完整对照表,30-90 分钟跑通。"
+description: "SillyTavern 本地部署全平台完整步骤。从装 Node.js 到跑通第一次对话,所有报错完整对照表,30-90 分钟跑通。覆盖 Windows / macOS / Linux 三大平台,包含端口冲突、Node.js 版本不对、git clone 失败、依赖装不上等高频报错的精准解决方案。"
 slug: local-install
 category: getting-started
 canonical: https://guide.sillytavern.one/getting-started/local-install/

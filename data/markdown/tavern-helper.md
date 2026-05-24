@@ -1,6 +1,6 @@
 ---
 title: "酒馆助手 Tavern Helper:80% 高级扩展依赖的'地基'"
-description: "为什么酒馆助手是必须装的第一个扩展?它的作用、安装方法、常见安装失败原因、高级用法(自定义 JS / Slash 命令 / 双向交互)完整指南。"
+description: "为什么酒馆助手是必须装的第一个扩展?它的作用、安装方法、常见安装失败原因、高级用法(自定义 JS / Slash 命令 / 双向交互)完整指南。覆盖 80% 高级扩展依赖的'地基'概念、和原生功能的关系、3 种安装方式对比、Slash 命令实战、避坑指南。"
 slug: tavern-helper
 category: extensions
 canonical: https://guide.sillytavern.one/extensions/tavern-helper/

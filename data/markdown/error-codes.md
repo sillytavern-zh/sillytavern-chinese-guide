@@ -1,6 +1,6 @@
 ---
 title: "常见错误码速查:401 / 403 / 404 / 429 / 500 / 502"
-description: "SillyTavern HTTP 错误码完整速查表,按出错概率排序。401 鉴权失败、429 限流、500 内部错误、ECONNRESET 等所有场景的真实原因与解决方案。"
+description: "SillyTavern HTTP 错误码完整速查表,按出错概率排序。401 鉴权失败、429 限流、500 内部错误、ECONNRESET 等所有场景的真实原因与解决方案。每个错误码给出 3 种最可能原因 + 验证 curl 命令 + 永久解决方案,5 分钟自助排查 90% 的报错。"
 slug: error-codes
 category: troubleshooting
 canonical: https://guide.sillytavern.one/troubleshooting/error-codes/

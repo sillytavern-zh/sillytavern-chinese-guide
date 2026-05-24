@@ -1,6 +1,6 @@
 ---
 title: "长对话失忆终极解决方案:三种总结技巧"
-description: "SillyTavern 聊久了 AI 失忆怎么办?手动总结+隐藏、自动总结插件、记忆表格三种方案完整对比与最佳实践组合。"
+description: "SillyTavern 聊久了 AI 失忆怎么办?手动总结+隐藏、自动总结插件、记忆表格三种方案完整对比与最佳实践组合。覆盖 Vector Storage 向量化记忆、Summarize 总结脚本、记忆表格插件横评,带每种方案的真实案例、Token 成本对比、操作步骤,让 AI 跨百万字保持人设。"
 slug: long-chat-summary
 category: advanced
 canonical: https://guide.sillytavern.one/advanced/long-chat-summary/

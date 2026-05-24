@@ -1,6 +1,6 @@
 ---
 title: "酒馆名词速查表:Preset / Lorebook / Persona 一篇讲清"
-description: "SillyTavern 常见英文术语速查:角色卡、预设、世界书、Persona、Token、Temperature、Top P、流式输出等核心概念一次讲清楚。"
+description: "SillyTavern 常见英文术语速查:角色卡、预设、世界书、Persona、Token、Temperature、Top P、流式输出等核心概念一次讲清楚。覆盖新手最容易混淆的 20+ 名词,每个术语给出通俗解释、实际作用、和日常聊天的关系,边学边查的最快入门方式。"
 slug: glossary
 category: getting-started
 canonical: https://guide.sillytavern.one/getting-started/glossary/

@@ -1,6 +1,6 @@
 ---
 title: "AI 回复空白 / 截断 / 突然停止:六大原因与对策"
-description: "SillyTavern AI 回复异常完整排查:回复为空、中途截断、内容太短、突然失联四种现象分别对应的原因和解决方案,含万能反截断技巧。"
+description: "SillyTavern AI 回复异常完整排查:回复为空、中途截断、内容太短、突然失联四种现象分别对应的原因和解决方案,含万能反截断技巧。覆盖 Safety Filter、Max Tokens 设置、模型自身限制、流式中断、Connection Timeout 5 大成因的精准识别与处理。"
 slug: empty-truncated
 category: troubleshooting
 canonical: https://guide.sillytavern.one/troubleshooting/empty-truncated/

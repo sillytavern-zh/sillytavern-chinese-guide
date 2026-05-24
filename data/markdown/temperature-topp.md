@@ -1,6 +1,6 @@
 ---
 title: "Temperature / Top P / Top K 参数详解:决定 AI '性格'的旋钮"
-description: "SillyTavern 生成参数完整解析。Temperature 温度、Top P 核采样、Top K、Frequency Penalty、Presence Penalty 各自的原理与三大模型实战组合配方。"
+description: "SillyTavern 生成参数完整解析。Temperature 温度、Top P 核采样、Top K、Frequency Penalty、Presence Penalty 各自的原理与三大模型实战组合配方。覆盖角色扮演适合的参数搭配、跑团高创意配方、写作质量优先配方,带每种配方对应的 AI 表现差异演示。"
 slug: temperature-topp
 category: presets-lorebooks
 canonical: https://guide.sillytavern.one/presets-lorebooks/temperature-topp/

@@ -1,6 +1,6 @@
 ---
 title: "自定义 API 端点完整配置教程:9 步打通任意 OpenAI 兼容 API"
-description: "SillyTavern 自定义 API 端点完整 9 步配置教程。覆盖 Claude / GPT / Gemini / DeepSeek / Ollama 本地模型。90% 失败在端点格式或模型名,每一步附精准排查。含多 API 管理、Key 安全、完整错误码对照表。"
+description: "SillyTavern 自定义 API 端点完整 9 步配置教程。覆盖 Claude / GPT / Gemini / DeepSeek / Ollama 本地模型。90% 失败在端点格式或模型名,每一步附精准排查。含多 API 管理、Key 切换技巧、本地与云端混合配置、超时与重试参数调优,新手到老玩家全覆盖。"
 slug: custom-api-setup
 category: api-config
 canonical: https://guide.sillytavern.one/api-config/custom-api-setup/

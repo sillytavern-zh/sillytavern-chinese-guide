@@ -1,6 +1,6 @@
 ---
 title: "SillyTavern 是什么?从开源前端到 AI 角色扮演神器的完整解读"
-description: "SillyTavern(酒馆)是什么?一篇读完:生态关系、和 ChatGPT/Character.AI 的本质差别、2026 年为什么仍值得学、7 种用户画像、真实成本、新手误解、常见故障速查。4500 字完整指南。"
+description: "SillyTavern(酒馆)是什么?一篇读完:生态关系、和 ChatGPT/Character.AI 的本质差别、2026 年为什么仍值得学、7 种用户画像、真实成本、新手误解、常见故障速查。4500 字完整指南。覆盖单机软件 vs Web 平台对比、为什么需要自己接 API、隐私优势、定制能力深度。"
 slug: what-is-sillytavern
 category: getting-started
 canonical: https://guide.sillytavern.one/getting-started/what-is-sillytavern/

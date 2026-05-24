@@ -1,6 +1,6 @@
 ---
 title: "世界书入门:让 AI 记住你的整个世界"
-description: "SillyTavern 世界书 (Lorebook) 完整入门。讲解条目、关键词、激活策略、插入位置 5 个核心概念,从零创建第一个能用的世界书。"
+description: "SillyTavern 世界书 (Lorebook) 完整入门。讲解条目、关键词、激活策略、插入位置 5 个核心概念,从零创建第一个能用的世界书。覆盖正则关键词、连锁触发、深度策略、Token 预算控制、跟主提示词的优先级关系,让 AI 跨百万字记住整个世界设定。"
 slug: lorebook-basics
 category: presets-lorebooks
 canonical: https://guide.sillytavern.one/presets-lorebooks/lorebook-basics/

@@ -1,6 +1,6 @@
 ---
 title: "Gemini 全家桶解析:Flash 和 Pro 的真实差异"
-description: "Gemini 系列完整选型指南。Flash 性价比之王、Pro 中端主力、Ultra 为何不推荐、空回复反截断完整解决方案、100 万 token 上下文的妙用。"
+description: "Gemini 系列完整选型指南。Flash 性价比之王、Pro 中端主力、Ultra 为何不推荐、空回复反截断完整解决方案、100 万 token 上下文的妙用。覆盖参数避雷、Safety Settings 完整禁用、长上下文跑团 / 长篇小说写作技巧、跟 Claude / GPT 的真实差异。"
 slug: gemini-guide
 category: ai-models
 canonical: https://guide.sillytavern.one/ai-models/gemini-guide/

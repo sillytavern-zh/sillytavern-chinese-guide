@@ -1,6 +1,6 @@
 ---
 title: "角色卡到底是什么?一张 PNG 背后藏着 AI 的灵魂"
-description: "角色卡是 SillyTavern 的核心。本文从原理、结构、获取方式、使用注意四个角度讲清楚一张角色卡到底是什么。"
+description: "角色卡是 SillyTavern 的核心。本文从原理、结构、获取方式、使用注意四个角度讲清楚一张角色卡到底是什么。覆盖 PNG 隐写原理、V2/V3 格式差异、字段含义(name/description/first_mes/example_dialogue 等)、版权与道德边界,新手必读的灵魂概念。"
 slug: what-is-character-card
 category: character-cards
 canonical: https://guide.sillytavern.one/character-cards/what-is-character-card/

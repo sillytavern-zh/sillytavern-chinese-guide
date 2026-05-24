@@ -1,6 +1,6 @@
 ---
 title: "角色卡导入完整指南:从下载到第一次对话的全流程"
-description: "SillyTavern 角色卡导入完整流程,含导入方法、备选问候语切换、导入失败 9 大原因排查。"
+description: "SillyTavern 角色卡导入完整流程,含导入方法、备选问候语切换、导入失败 9 大原因排查。覆盖网页拖入、URL 直接导入、本地文件上传 3 种方法,导入失败 9 大原因(文件损坏、格式错误、重名冲突、隐写丢失等)的精准排查与解决,新手最常踩的坑这里全收录。"
 slug: import-guide
 category: character-cards
 canonical: https://guide.sillytavern.one/character-cards/import-guide/

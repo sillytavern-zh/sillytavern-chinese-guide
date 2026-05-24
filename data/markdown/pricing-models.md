@@ -1,6 +1,6 @@
 ---
 title: "按次计费 vs 按量计费:长上下文场景如何省 40 倍"
-description: "AI API 两种主流计费模式完整对比。短对话用按量、长上下文必选按次的真实成本案例,Agent / 长文档分析 / 多轮对话场景的最优选择策略。"
+description: "AI API 两种主流计费模式完整对比。短对话用按量、长上下文必选按次的真实成本案例,Agent / 长文档分析 / 多轮对话场景的最优选择策略。带具体的成本计算公式、不同 Token 数下的盈亏平衡点、何时切换模式的决策指标,帮你每月节省 30-70% 成本。"
 slug: pricing-models
 category: api-config
 canonical: https://guide.sillytavern.one/api-config/pricing-models/

@@ -1,6 +1,6 @@
 ---
 title: "手机使用 SillyTavern 完整指南:iOS / Android / iPad"
-description: "手机怎么用 SillyTavern?iOS、Android、iPad 三大平台的最佳方案完整对比和操作步骤,含 Termux 本地部署。"
+description: "手机怎么用 SillyTavern?iOS、Android、iPad 三大平台的最佳方案完整对比和操作步骤,含 Termux 本地部署。覆盖云端访问 vs 本地运行、Termux 安装步骤、iOS Pythonista 方案、iPad 大屏优化、屏幕尺寸适配、移动端独有的快速回复 QR 配置。"
 slug: mobile-guide
 category: getting-started
 canonical: https://guide.sillytavern.one/getting-started/mobile-guide/

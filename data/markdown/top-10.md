@@ -1,6 +1,6 @@
 ---
 title: "SillyTavern 必装扩展 TOP 10:让酒馆体验质变"
-description: "2026 实测有效的 10 个必装扩展,按重要程度排序。酒馆助手、记忆增强、文生图、QR 助手、TTS、翻译、字体管理器等。"
+description: "2026 实测有效的 10 个必装扩展,按重要程度排序。酒馆助手、记忆增强、文生图、QR 助手、TTS、翻译、字体管理器等。每个扩展给出'必装理由 + 效果展示 + 安装步骤 + 跟其他扩展的兼容性',覆盖新手到老玩家的扩展生态完整图谱。"
 slug: top-10
 category: extensions
 canonical: https://guide.sillytavern.one/extensions/top-10/

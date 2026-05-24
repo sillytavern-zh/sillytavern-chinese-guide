@@ -1,6 +1,6 @@
 ---
 title: "SillyTavern Valid 但 500 完整排查指南:6 层决策树定位 90% 错误"
-description: "API 连接 valid 但发消息 500?70% 模型名错、10% 端点缺 /v1、10% Key 余额 0、5% 参数兼容、3% 上游、2% 网络。6 层结构化排查,带 curl 验证 + Claude/o1/Gemini 各家特殊坑 + 10 问 FAQ。"
+description: "API 连接 valid 但发消息 500?70% 模型名错、10% 端点缺 /v1、10% Key 余额 0、5% 参数兼容、3% 上游、2% 网络。6 层结构化排查,带 curl 验证 + Claude/o1/Gemini 各家特殊坑。覆盖 prompt-eval、token 限制、stop 参数兼容性、安全策略阻断等隐性原因,排查地图直击根本原因。"
 slug: valid-but-500
 category: troubleshooting
 canonical: https://guide.sillytavern.one/troubleshooting/valid-but-500/

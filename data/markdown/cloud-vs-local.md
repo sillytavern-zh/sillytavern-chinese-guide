@@ -1,6 +1,6 @@
 ---
 title: "云端版 vs 本地部署:成本、稳定性、上手难度深度对比"
-description: "SillyTavern 云端版和本地部署到底哪个适合你?从成本、稳定性、易用性、隐私四个维度完整对比,附本地部署快速教程和挑选云端运营方标准。"
+description: "SillyTavern 云端版和本地部署到底哪个适合你?从成本、稳定性、易用性、隐私四个维度完整对比,附本地部署快速教程和挑选云端运营方标准。新手 90% 应该选云端,老玩家什么时候应该转本地。覆盖月成本计算、数据安全风险、运营方挑选 8 大标准、跨设备数据同步方案。"
 slug: cloud-vs-local
 category: getting-started
 canonical: https://guide.sillytavern.one/getting-started/cloud-vs-local/

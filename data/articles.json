@@ -421,6 +421,15 @@
       "updatedAt": "2026-04-15"
     },
     {
+      "slug": "missing-wand-button-1170",
+      "category": "troubleshooting",
+      "title": "SillyTavern 1.17.0 升级后魔法棒按钮消失?一键修复",
+      "description": "SillyTavern 1.17.0 升级后左下角魔法棒(扩展菜单)按钮不见了?这是新版默认隐藏导致。本文教你 30 秒一键恢复经典布局,附完整原因分析和 GitHub 开源扩展。",
+      "createdAt": "2026-05-26",
+      "updatedAt": "2026-05-26",
+      "order": 4
+    },
+    {
       "slug": "valid-but-500",
       "category": "troubleshooting",
       "title": "SillyTavern Valid 但 500 完整排查指南:6 层决策树定位 90% 错误",

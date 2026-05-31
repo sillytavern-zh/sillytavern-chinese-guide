@@ -1,8 +1,8 @@
 # 📖 SillyTavern 中文教程站
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Last Sync](https://img.shields.io/badge/last%20sync-2026-05-24-blue)](https://github.com/sillytavern-zh/sillytavern-chinese-guide/commits/main)
-[![Articles](https://img.shields.io/badge/articles-27-green)](#-完整目录)
+[![Last Sync](https://img.shields.io/badge/last%20sync-2026-05-31-blue)](https://github.com/sillytavern-zh/sillytavern-chinese-guide/commits/main)
+[![Articles](https://img.shields.io/badge/articles-28-green)](#-完整目录)
 [![Pillar](https://img.shields.io/badge/pillar-5-orange)](#-完整目录)
 
 > 中文 SillyTavern 用户的权威教程、故障排查与进阶玩法
@@ -13,7 +13,7 @@
 
 本仓库是 [guide.sillytavern.one](https://guide.sillytavern.one/) 的内容快照,所有文章独立维护,不隶属任何运营方,不出售任何 API 或订阅。
 
-📊 **当前**: 27 篇精品教程 · 5 篇 Pillar 长文(3000-4500 字深度解析)
+📊 **当前**: 28 篇精品教程 · 5 篇 Pillar 长文(3000-4500 字深度解析)
 
 ---
 
@@ -135,6 +135,10 @@ _酒馆助手 / 记忆插件 / 必装清单_
 
 ### 🔧 故障排查
 _Valid 但 500 / 空回复 / 错误码_
+
+- **[SillyTavern 1.17.0 升级后魔法棒按钮消失?一键修复](data/markdown/missing-wand-button-1170.md)**
+  - SillyTavern 1.17.0 升级后左下角魔法棒(扩展菜单)按钮不见了?这是新版默认隐藏导致。本文教你 30 秒一键恢复经典布局,附完整原因分析和 GitHub 开源扩展。
+  - 🌐 [在线阅读](https://guide.sillytavern.one/troubleshooting/missing-wand-button-1170/)
 
 - **[SillyTavern Valid 但 500 完整排查指南:6 层决策树定位 90% 错误](data/markdown/valid-but-500.md)** ⭐🛡
   - API 连接 valid 但发消息 500?70% 模型名错、10% 端点缺 /v1、10% Key 余额 0、5% 参数兼容、3% 上游、2% 网络。6 层结构化排查,带 curl 验证 + ...

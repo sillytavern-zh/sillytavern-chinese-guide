@@ -1,7 +1,7 @@
 # 📖 SillyTavern 中文教程站
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Last Sync](https://img.shields.io/badge/last%20sync-2026-06-28-blue)](https://github.com/sillytavern-zh/sillytavern-chinese-guide/commits/main)
+[![Last Sync](https://img.shields.io/badge/last%20sync-2026-07-05-blue)](https://github.com/sillytavern-zh/sillytavern-chinese-guide/commits/main)
 [![Articles](https://img.shields.io/badge/articles-28-green)](#-完整目录)
 [![Pillar](https://img.shields.io/badge/pillar-5-orange)](#-完整目录)
 
